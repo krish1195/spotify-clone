@@ -48,20 +48,6 @@ VITE_GEO_API_KEY=your_geo_api_key
 npm run dev
 ```
 
-## 📁 Project Structure
-
-```
-spotify-clone/
-├── src/
-│   ├── components/         # Reusable UI components
-│   ├── pages/             # Main page components
-│   ├── redux/
-│   │   ├── features/      # Redux slices
-│   │   └── services/      # API services
-│   └── assets/            # Static assets
-├── public/                # Public assets
-└── config files          # Configuration files
-```
 
 ## 🔧 Configuration Files
 
